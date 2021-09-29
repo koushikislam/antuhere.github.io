@@ -1,0 +1,22 @@
+.footer-text {
+  text-align: center;
+  color: #868e96 !important;
+}
+
+.dark-mode {
+  color: white !important;
+}
+
+.footer-div {
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+}
+.footer-card-border {
+  height: 30px;
+  /* width: 100%; */
+  border-top: 2px solid rgba(211, 211, 211, 0.397);
+  -webkit-transition: width 0.6s ease-in-out;
+  -moz-transition: width 0.6s ease-in-out;
+  -o-transition: width 0.6s ease-in-out;
+  transition: width 0.6s ease-in-out;
+}
