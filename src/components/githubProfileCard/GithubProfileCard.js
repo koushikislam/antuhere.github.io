@@ -69,7 +69,7 @@ export default function GithubProfileCard({prof}) {
             />
             <h2 className="bio-text">{emoji(String(prof.name))}</h2>
 
-            <h2 className="bio-text">{emoji(String(prof.bio))} ❌</h2>
+            <h2 className="bio-text">{emoji(String(prof.bio))} </h2>
           </div>
         </div>
       </div>
