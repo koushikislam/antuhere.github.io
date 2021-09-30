@@ -93,7 +93,7 @@ const educationInfo = {
       descBullets: [""]
     },
     {
-      schoolName: "BIAM Model School And Colleg",
+      schoolName: "BIAM Model School And College",
       logo: require("./assets/images/BiamLogo.jpg"),
       subHeader: "passed SSC-2020 in Science",
       duration: "January 2018 - January 2020",
